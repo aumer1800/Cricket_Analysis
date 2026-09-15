@@ -154,19 +154,19 @@ IPL Match & Ball-by-Ball Data
       Power BI Dashboard
 
 
-Machine Learning Models
+## **Machine Learning Models:**
 
 Three regression models are compared.
 
-1. Linear Regression
+# 1. Linear Regression
 
 Used as a baseline model to identify a simple relationship between player features and next-match runs.
 
-2. Random Forest Regressor
+# 2. Random Forest Regressor
 
 Used to capture non-linear relationships between player performance features and predicted runs.
 
-3. Gradient Boosting Regressor
+# 3. Gradient Boosting Regressor
 
 Used to capture complex patterns by sequentially improving predictions.
 
